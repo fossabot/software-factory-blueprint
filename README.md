@@ -1,5 +1,6 @@
-
 # Software Factory Blueprint
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fchuanjin%2Fsoftware-factory-blueprint.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fchuanjin%2Fsoftware-factory-blueprint?ref=badge_shield)
+
 PELUX Software Factory Blueprint documentation
 
 Software Factory Blueprint is maintained at https://github.com/Pelagicore/software-factory-blueprint
@@ -73,3 +74,6 @@ Code and scripts are licensed under LGPL 2.1
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fchuanjin%2Fsoftware-factory-blueprint.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fchuanjin%2Fsoftware-factory-blueprint?ref=badge_large)
